@@ -1,5 +1,7 @@
 # Frontend Mentor - NFT preview card component
 
+Please visit deployed site here: https://miriam-hidalgo.github.io/nft-card/
+
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
